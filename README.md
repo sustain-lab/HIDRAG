@@ -1,5 +1,7 @@
 # HIDRAG
 
+[![DOI](https://zenodo.org/badge/196271706.svg)](https://zenodo.org/badge/latestdoi/196271706)
+
 Original Matlab code used in the Donelan et al. (2004) drag study.
 
 ## Description of source files and data
